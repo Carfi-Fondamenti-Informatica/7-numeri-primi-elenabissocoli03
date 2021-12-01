@@ -8,7 +8,7 @@ int main(){
     if (ric(2,n)){
         cout<< "numero primo"<< endl;
     }else{
-        std::cout<< "numero non primo"<<endl;
+        cout<< "numero non primo"<<endl;
     }
     return 0;
 }
