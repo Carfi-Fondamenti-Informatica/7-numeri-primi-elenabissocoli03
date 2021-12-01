@@ -9,7 +9,6 @@ bool ric (int i, int n){
   }else{
       return ric(i+1,n);
   }
-
 }
 //
 // Created by Utente on 01/12/2021.
